@@ -1,7 +1,10 @@
 # Project State - TRIGGERED
 
-**Status:** v2 SHIPPED - playable end to end, with music + SFX + emotes
+**Status:** v2 SHIPPED + HOSTED - playable end to end, live on GitHub Pages
 **Last updated:** 2026-05-17
+
+**Live URL:** https://mcastelli99.github.io/triggered/
+**Repo:** https://github.com/mcastelli99/triggered
 
 ## Where Things Stand
 v1 is DONE. Open `index.html` in any browser (desktop or mobile). Full loop: Title -> first trigger message pops -> Joe clings to rocket -> infinite vertical scroller. Tap or hold left/right halves of screen (or use A/D / arrow keys) to dodge obstacles. New trigger texts fly past periodically and accelerate the rocket. Hit anything = explosion = score screen with new high score celebration. Tap to retry.
